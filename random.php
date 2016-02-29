@@ -17,8 +17,8 @@ echo "\n";
 while($nobody_won) {
 if($auto!='auto') {
 	system('clear');
+	echo 'LET BALL EM\''."\n";
 }
-echo 'LET BALL EM\''."\n";
 if($ball == 'l') {
 	$ball_next = 'r';
 	$ball = 'c';
